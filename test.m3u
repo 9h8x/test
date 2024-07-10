@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="Partido" tvg-logo="https://cdn-icons-png.flaticon.com/512/1165/1165218.png"
-rtmp://10.66.1.10/live/test
-#EXTINF:-1 tvg-id="2" tvg-name="El Trece" tvg-logo="https://cdn-icons-png.flaticon.com/512/1165/1165218.png"
-rtmp://10.66.1.10/live/trece
+rtmp://10.66.1.10/live/77ac572b-eb71-428f-a93e-a681ccc8ef99.stream
