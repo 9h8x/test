@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1, TEST RTMP SERVER
+rtmp://10.66.1.10/live/test
